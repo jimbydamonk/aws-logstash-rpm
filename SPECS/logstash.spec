@@ -13,7 +13,7 @@
 %global esdatadir %{_localstatedir}/%{name}/data
 
 Name:		logstash
-Version:	1.2.2
+Version:	1.3.2
 Release:	1%{?dist}
 Summary:	logstash is a tool for managing events and logs.
 
